@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
+
   <parent>
     <groupId>com.example.maven-project</groupId>
     <artifactId>maven-project</artifactId>
@@ -255,6 +255,6 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
->>>>>>> e886af9b6118ec0a8b444b8963ab926dff6f3d8b
+
 
 </project>
